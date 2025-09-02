@@ -1,4 +1,4 @@
-- 👋 Hi, visit https://ekv.epfl.ch/
+- 👋 Hi, visit https://github.com/ekv26/model
 
 <!---
 ekv26/ekv26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
